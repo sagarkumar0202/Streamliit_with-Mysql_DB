@@ -5,9 +5,9 @@ import streamlit as st
 
 mydb = mysql.connector.connect(
     host='sql12.freesqldatabase.com',
-    user='sql12782800',
+    user='sql12786339',
     password='Sagar@0407',
-    database="sql12782800"
+    database="sql12786339"
 
 
 )
